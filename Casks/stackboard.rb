@@ -1,6 +1,6 @@
 cask "stackboard" do
-  version "1.0.3"
-  sha256 "7a94a1d7a433f6a1791c314e779e399a94ba90c48b5eb60aec445b2a50287955"
+  version "1.1.0"
+  sha256 "16342e24f8c9e13b77396fd058557599a00911e3c2626a2b1bd0b780b7f07ce4"
 
   url "https://github.com/0x0FACED/stackboard/releases/download/v#{version}/Stackboard.zip"
   name "Stackboard"
